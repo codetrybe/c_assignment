@@ -1,7 +1,5 @@
 # Contributing to C Assignment
 
-Thank you for your interest in contributing to Custom Printf!
-
 To make a contribution, please follow these steps:
 
 1. Fork the repository on GitHub by clicking on the "Fork" button in the top-right corner of the repository page.
