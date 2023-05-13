@@ -10,7 +10,6 @@ int main(void)
 	int a = 100;
 	int *ptrA;
 
-	/* Assign the memory address of 'a' to 'ptrA' */
 	ptrA = &a;
 
 	/* Print the value of variable 'a' */
