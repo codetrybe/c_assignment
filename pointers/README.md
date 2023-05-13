@@ -10,6 +10,7 @@ _This directory contains a C programs that demonstrate various pointer operation
 
 ### Tasks
 [1-address_and_value.c](./1-address_and_value.c) - A program that displays the value and address of the variable
+<br><br>
 
 ### Notes
 Feel free to modify the program or use it as a starting point for C projects.
